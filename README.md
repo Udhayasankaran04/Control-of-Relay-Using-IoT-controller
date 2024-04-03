@@ -1,4 +1,5 @@
 #### NAME: UDHAYA SANKARAN M
+#### REG NO: 212222110051
 # Control of Relay Using IoT controller
 
 ##  AIM:
@@ -58,15 +59,15 @@ void loop()
 ```
 
 ## CIRCUIT DIAGRAM:
-< img src="https://github.com/Udhayasankaran04/Control-of-Relay-Using-IoT-controller/assets/119393933/2778d32f-e040-4f29-8541-48667e9be577" width="500" height="300"/>
+<img src="https://github.com/Udhayasankaran04/Control-of-Relay-Using-IoT-controller/assets/119393933/2778d32f-e040-4f29-8541-48667e9be577" width="500" height="300">
 
 
 ## OUTPUT:
 ### OFF
-< img src="https://github.com/Udhayasankaran04/Control-of-Relay-Using-IoT-controller/assets/119393933/2692b4bc-2054-42db-91f8-624e37a9a62e" width="500" height="300"/>
+<img src="https://github.com/Udhayasankaran04/Control-of-Relay-Using-IoT-controller/assets/119393933/2692b4bc-2054-42db-91f8-624e37a9a62e" width="500" height="300">
 
 ### ON
-< img src="https://github.com/Udhayasankaran04/Control-of-Relay-Using-IoT-controller/assets/119393933/0fc6856a-831d-4817-9c5a-f33d40fa9f96" width="500" height="300/>
+<img src="https://github.com/Udhayasankaran04/Control-of-Relay-Using-IoT-controller/assets/119393933/0fc6856a-831d-4817-9c5a-f33d40fa9f96" width="500" height="300>
 
 ## RESULT:
 
